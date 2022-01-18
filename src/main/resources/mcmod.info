@@ -1,0 +1,15 @@
+[
+{
+  "modid": "originalandfuture",
+  "name": "Original and Future",
+  "description": "Original and Future Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/XYMoYingJun/Original_and_Future",
+  "updateUrl": "",
+  "authorList": ["XYMo_Ying_Jun"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
